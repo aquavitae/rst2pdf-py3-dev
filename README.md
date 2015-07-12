@@ -1,3 +1,9 @@
+*This is an experimental development branch of rst2pdf(http://github.com/rst2pdf/rst2pdf)
+for Python 3.  It most works, but there are a few features not fully implemented 
+(e.g. math).  I will no longer be developing this branch and instead will
+be focusing on the master at the link above.  Please do not post any issues or PRs
+here as I will probably ignore them.*
+
 Intro to RST2PDF2
 =================
 
